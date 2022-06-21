@@ -1,8 +1,8 @@
 //appKey IronSource
-AppKeyBegin##{13ea3c8b9}##LastAppKey
+AppKeyBegin##{1552c30d}##LastAppKey
 //OneSignal
 appIdKeyBegin##{454a2c9f-a244-4961-a588-f9bb94d40b6f}##LastappId
 //enbale ads
 EnableAdsBegin##{true}##LastEnableAds
 //rate us
-RateUsBegin##{https://play.google.com/store/apps/details?id=com.PlantsvsRappersFNFMod.PlantsvsRappersFNFMod}##LastRateUs
+RateUsBegin##{https://play.google.com/store/apps/details?id=com.PlantsvsRappersFNFAli.PlantsvsRappersFNFMod}##LastRateUs
