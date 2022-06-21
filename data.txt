@@ -1,5 +1,5 @@
 //appKey IronSource
-AppKeyBegin##{1552c30d}##LastAppKey
+AppKeyBegin##{1552c30d9}##LastAppKey
 //OneSignal
 appIdKeyBegin##{454a2c9f-a244-4961-a588-f9bb94d40b6f}##LastappId
 //enbale ads
